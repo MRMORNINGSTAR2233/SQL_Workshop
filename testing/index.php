@@ -10,4 +10,4 @@
         echo "ADD:",$result1,"\t\t","SUB:",$result2,"\t\t","MUL:",$result3,"\t\t","DIV:",$result4,"<br>";;
 
         }
-    ?>\
+    ?>
